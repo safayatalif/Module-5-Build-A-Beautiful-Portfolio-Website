@@ -163,6 +163,7 @@ main {
     font-size: 18px;
     color: #757575;
     margin-bottom: 50px;
+    padding: 0 50px;
 
 }
 
@@ -186,12 +187,14 @@ section {
 .resume-item {
     margin-top: 30px;
     margin-bottom: 30px;
+    padding: 0px 50px;
 }
 
 .resume-title {
     font-weight: 700;
     font-size: 25px;
     color: #474747;
+    padding: 0px 50px;
 
 }
 
