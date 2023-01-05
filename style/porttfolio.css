@@ -247,3 +247,14 @@ input[type="email"] {
 .contact a {
     text-decoration: none;
 }
+
+.contact-btn {
+    font-weight: 700;
+    font-size: 20px;
+    color: #FD6E0A;
+    width: 160px;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    padding: 10px 50px;
+    margin-top: 20px;
+}
