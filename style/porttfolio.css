@@ -61,7 +61,7 @@ nav li {
 
 /* banner style  */
 .banner {
-    margin: 200px;
+    margin: 0px 200px;
     display: flex;
     align-items: center;
 }
